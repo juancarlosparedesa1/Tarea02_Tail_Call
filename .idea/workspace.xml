@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="419791a5-591b-45c7-90b6-7a9246cd699a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/listatailrecursiva/Cons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/listatailrecursiva/Effect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/listatailrecursiva/Empty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/listatailrecursiva/Executable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/listatailrecursiva/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/tailcall/Return.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/tailcall/Suspend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/tailcall/TailCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/tailcall/TestTailCall.java" afterDir="false" />
+    <list default="true" id="419791a5-591b-45c7-90b6-7a9246cd699a" name="Changes" comment="Tarea02TailCall">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/tailcall/TestTailCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programacion/avanzada/listas/tailcall/TestTailCall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +79,35 @@
       <option name="presentableId" value="Default" />
       <updated>1707432460431</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tarea02TailCall">
+      <option name="closed" value="true" />
+      <created>1707435042144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707435042144</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tarea02TailCall">
+      <option name="closed" value="true" />
+      <created>1707435059812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707435059812</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tarea02TailCall">
+      <option name="closed" value="true" />
+      <created>1707435143482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707435143482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tarea02TailCall" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea02TailCall" />
   </component>
 </project>
